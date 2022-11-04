@@ -2,9 +2,12 @@
 #include<stdio.h>
 void main()
 {
-printf("hamada");	
+fun();
 }
-
+void fun()
+{
+	printf("hello");
+}
 
 
 
